@@ -36,15 +36,11 @@ public class Downloadexcel {
 		//wait until message gone adn verify UI table
 		wt.until(ExpectedConditions.invisibilityOfElementLocated(toastlocator));
 		
-		
-		
-	
-		
-		
-		
+		System.out.println("testing git ");
 		
 		
 
 	}
+	
 
 }

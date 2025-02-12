@@ -27,7 +27,7 @@ public class Ecommerceapp {
 		e.addItemsToCart(driver,veggie);
 		e.checkOut(driver);
 		
-		
+		System.out.println("testing git2 ");
 
 	}
 	
