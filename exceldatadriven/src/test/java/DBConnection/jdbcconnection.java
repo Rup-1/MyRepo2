@@ -19,5 +19,9 @@ public class jdbcconnection {
 		rs.getString("colname");
 
 	}
+	
+	public void testtt() {
+		System.out.println("to test branch");
+	}
 
 }
